@@ -1,0 +1,1 @@
+export const replyLengthTypes = ["short (50 words)", "medium (100 words)" ,"long (200 words)"]
